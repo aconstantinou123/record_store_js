@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea3997b-aef0-41bf-af5f-ce9f8abb13b7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/RecordCollector.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/specs/RecordCollectorTest.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/record.js" afterPath="$PROJECT_DIR$/Record.js" />
+      <change beforePath="$PROJECT_DIR$/specs/record_test.js" afterPath="$PROJECT_DIR$/specs/RecordTest.js" />
+      <change beforePath="$PROJECT_DIR$/specs/store_test.js" afterPath="$PROJECT_DIR$/specs/StoreTest.js" />
+      <change beforePath="$PROJECT_DIR$/store.js" afterPath="$PROJECT_DIR$/Store.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,8 +22,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="record.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record.js">
+      <file leaf-file-name="Record.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Record.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="101" lean-forward="false" selection-start-line="8" selection-start-column="101" selection-end-line="8" selection-end-column="101" />
@@ -26,41 +32,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="record_test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/specs/record_test.js">
+      <file leaf-file-name="RecordTest.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specs/RecordTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="57" lean-forward="false" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+            <state relative-caret-position="15">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/store.js">
+      <file leaf-file-name="Store.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Store.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+            <state relative-caret-position="-339">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store_test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/specs/store_test.js">
+      <file leaf-file-name="StoreTest.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specs/StoreTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="16" column="71" lean-forward="false" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RecordCollector.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RecordCollector.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RecordCollectorTest.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/specs/RecordCollectorTest.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="75" column="34" lean-forward="true" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -87,6 +113,9 @@
         <option value="$PROJECT_DIR$/store.js" />
         <option value="$PROJECT_DIR$/specs/store_test.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/specs/StoreTest.js" />
+        <option value="$PROJECT_DIR$/specs/RecordCollectorTest.js" />
+        <option value="$PROJECT_DIR$/RecordCollector.js" />
       </list>
     </option>
   </component>
@@ -158,33 +187,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.store.can get genre">
-    <configuration name="specs/store_test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/specs/store_test.js</test-file>
-    </configuration>
-    <configuration name="store" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>SUITE</test-kind>
-      <test-file>$PROJECT_DIR$/specs/store_test.js</test-file>
-      <test-names>
-        <name value="store" />
-      </test-names>
-    </configuration>
-    <configuration name="store.can get full store balance" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Mocha.Record Collector.can get sort records by value">
+    <configuration name="Record Collector.can get most valuable record" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
@@ -193,13 +197,13 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/specs/store_test.js</test-file>
+      <test-file>$PROJECT_DIR$/specs/RecordCollectorTest.js</test-file>
       <test-names>
-        <name value="store" />
-        <name value="can get full store balance" />
+        <name value="Record Collector" />
+        <name value="can get most valuable record" />
       </test-names>
     </configuration>
-    <configuration name="store.can get genre" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+    <configuration name="Record Collector.can get sort records by value" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
@@ -208,13 +212,13 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/specs/store_test.js</test-file>
+      <test-file>$PROJECT_DIR$/specs/RecordCollectorTest.js</test-file>
       <test-names>
-        <name value="store" />
-        <name value="can get genre" />
+        <name value="Record Collector" />
+        <name value="can get sort records by value" />
       </test-names>
     </configuration>
-    <configuration name="store.can sell a record" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+    <configuration name="Record Collector.can get total value of collection" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
@@ -223,26 +227,56 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/specs/store_test.js</test-file>
+      <test-file>$PROJECT_DIR$/specs/RecordCollectorTest.js</test-file>
       <test-names>
-        <name value="store" />
+        <name value="Record Collector" />
+        <name value="can get total value of collection" />
+      </test-names>
+    </configuration>
+    <configuration name="Record Collector.can get total value of genre" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/specs/RecordCollectorTest.js</test-file>
+      <test-names>
+        <name value="Record Collector" />
+        <name value="can get total value of genre" />
+      </test-names>
+    </configuration>
+    <configuration name="Record Collector.can sell a record" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/specs/RecordCollectorTest.js</test-file>
+      <test-names>
+        <name value="Record Collector" />
         <name value="can sell a record" />
       </test-names>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Mocha.store" />
-      <item index="1" class="java.lang.String" itemvalue="Mocha.store.can get full store balance" />
-      <item index="2" class="java.lang.String" itemvalue="Mocha.specs/store_test.js" />
-      <item index="3" class="java.lang.String" itemvalue="Mocha.store.can sell a record" />
-      <item index="4" class="java.lang.String" itemvalue="Mocha.store.can get genre" />
+      <item index="0" class="java.lang.String" itemvalue="Mocha.Record Collector.can sell a record" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.Record Collector.can get total value of collection" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.Record Collector.can get total value of genre" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.Record Collector.can get most valuable record" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.Record Collector.can get sort records by value" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Mocha.store.can get genre" />
-        <item index="1" class="java.lang.String" itemvalue="Mocha.store.can sell a record" />
-        <item index="2" class="java.lang.String" itemvalue="Mocha.specs/store_test.js" />
-        <item index="3" class="java.lang.String" itemvalue="Mocha.store.can get full store balance" />
-        <item index="4" class="java.lang.String" itemvalue="Mocha.store" />
+        <item index="0" class="java.lang.String" itemvalue="Mocha.Record Collector.can get sort records by value" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.Record Collector.can get most valuable record" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.Record Collector.can get total value of genre" />
+        <item index="3" class="java.lang.String" itemvalue="Mocha.Record Collector.can get total value of collection" />
+        <item index="4" class="java.lang.String" itemvalue="Mocha.Record Collector.can sell a record" />
       </list>
     </recent_temporary>
   </component>
@@ -261,44 +295,44 @@
       <updated>1516886651974</updated>
       <workItem from="1516886653281" duration="115000" />
       <workItem from="1516886989350" duration="3949000" />
-      <workItem from="1516890993653" duration="1440000" />
+      <workItem from="1516890993653" duration="5566000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="specs_store_test_js - 2018.01.25 at 14h 39m 53s.xml">
-      <configuration name="specs/store_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Record_Collector_can_get_most_valuable_record - 2018.01.25 at 15h 56m 40s.xml">
+      <configuration name="Record Collector.can get most valuable record" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="specs_store_test_js - 2018.01.25 at 14h 40m 57s.xml">
-      <configuration name="specs/store_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Record_Collector_can_get_most_valuable_record - 2018.01.25 at 15h 56m 41s.xml">
+      <configuration name="Record Collector.can get most valuable record" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="specs_store_test_js - 2018.01.25 at 14h 41m 07s.xml">
-      <configuration name="specs/store_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Record_Collector_can_get_most_valuable_record - 2018.01.25 at 15h 56m 59s.xml">
+      <configuration name="Record Collector.can get most valuable record" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="specs_store_test_js - 2018.01.25 at 14h 42m 29s.xml">
-      <configuration name="specs/store_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Record_Collector_can_get_most_valuable_record - 2018.01.25 at 15h 58m 03s.xml">
+      <configuration name="Record Collector.can get most valuable record" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="specs_store_test_js - 2018.01.25 at 14h 49m 17s.xml">
-      <configuration name="specs/store_test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Record_Collector_can_get_most_valuable_record - 2018.01.25 at 15h 58m 09s.xml">
+      <configuration name="Record Collector.can get most valuable record" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="store_can_get_full_store_balance - 2018.01.25 at 14h 37m 30s.xml">
-      <configuration name="store.can get full store balance" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Record_Collector_can_get_sort_records_by_value - 2018.01.25 at 16h 06m 33s.xml">
+      <configuration name="Record Collector.can get sort records by value" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="store_can_get_genre - 2018.01.25 at 14h 58m 02s.xml">
-      <configuration name="store.can get genre" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Record_Collector_can_get_sort_records_by_value - 2018.01.25 at 16h 06m 46s.xml">
+      <configuration name="Record Collector.can get sort records by value" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="store_can_get_genre - 2018.01.25 at 14h 59m 01s.xml">
-      <configuration name="store.can get genre" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Record_Collector_can_get_sort_records_by_value - 2018.01.25 at 16h 07m 21s.xml">
+      <configuration name="Record Collector.can get sort records by value" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="store_can_list_inventory - 2018.01.25 at 14h 29m 11s.xml">
-      <configuration name="store.can list inventory" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Record_Collector_can_get_sort_records_by_value - 2018.01.25 at 16h 08m 15s.xml">
+      <configuration name="Record Collector.can get sort records by value" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="store_can_sell_a_record - 2018.01.25 at 14h 49m 48s.xml">
-      <configuration name="store.can sell a record" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Record_Collector_can_get_sort_records_by_value - 2018.01.25 at 16h 09m 44s.xml">
+      <configuration name="Record Collector.can get sort records by value" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5504000" />
+    <option name="totallyTimeSpent" value="9630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -331,12 +365,20 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/RecordCollector.js</url>
+          <line>9</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/record.js">
+    <entry file="file://$PROJECT_DIR$/Record.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="101" lean-forward="false" selection-start-line="8" selection-start-column="101" selection-end-line="8" selection-end-column="101" />
@@ -344,7 +386,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/record_test.js">
+    <entry file="file://$PROJECT_DIR$/specs/RecordTest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="57" lean-forward="false" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
@@ -352,7 +394,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/store.js">
+    <entry file="file://$PROJECT_DIR$/Store.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
@@ -360,7 +402,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/store_test.js">
+    <entry file="file://$PROJECT_DIR$/specs/StoreTest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
@@ -376,15 +418,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/record_test.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="57" lean-forward="false" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/record.js">
+    <entry file="file://$PROJECT_DIR$/specs/RecordTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/StoreTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="71" lean-forward="false" selection-start-line="16" selection-start-column="71" selection-end-line="16" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Record.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="101" lean-forward="false" selection-start-line="8" selection-start-column="101" selection-end-line="8" selection-end-column="101" />
@@ -392,26 +450,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/store.js">
+    <entry file="file://$PROJECT_DIR$/Store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-339">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs/RecordCollectorTest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
-          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+          <caret line="75" column="34" lean-forward="true" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs/store_test.js">
+    <entry file="file://$PROJECT_DIR$/RecordCollector.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+        <state relative-caret-position="190">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>

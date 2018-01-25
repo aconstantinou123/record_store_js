@@ -1,4 +1,4 @@
-const Record = require('./record');
+const Record = require('./Record');
 
 const Store = function(name, city){
     this.name = name;

@@ -1,6 +1,6 @@
 const assert = require('assert');
-const Store = require('../store');
-const Record = require('../record');
+const Store = require('../Store');
+const Record = require('../Record');
 
 describe('store', function(){
 

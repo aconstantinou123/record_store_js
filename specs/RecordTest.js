@@ -1,5 +1,5 @@
 const assert = require('assert');
-const Record = require('../record');
+const Record = require('../Record');
 
 describe('record', function () {
 
